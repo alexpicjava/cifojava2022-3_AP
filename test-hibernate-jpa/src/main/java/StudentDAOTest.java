@@ -18,9 +18,11 @@ public class StudentDAOTest {
         transaction.begin();
 
         //Student studentCreated =new Student(1,"Alex", "Pixel", 25, "alex@helsinki.uni");
-        Student studentCreated =new Student(2,"Ricard", "Jones", 15, "ricki@helsinki.uni");
+        Student studentCreated1 =new Student(2,"Ricard", "Jones", 15, "ricki@helsinki.uni");
+        Student studentCreated2 =new Student(3,"Alex", "Perex", 35, "alex.perz@helsinki.uni");
         //prepares the operation to be done
-        manager.persist(studentCreated);
+        manager.persist(studentCreated1);
+        manager.persist(studentCreated2);
         //this operation WRITES the object on the actual table
         transaction.commit();
         manager.close();

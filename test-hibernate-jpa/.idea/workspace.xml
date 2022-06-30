@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232f2cca-cc9a-4363-af4d-5a39dad391d3" name="Default Changelist" comment="Commit #1 : create project">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoMavenH2/src/main/java/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoMavenH2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demoMavenH2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoMavenH2/src/main/java/MavenH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoMavenH2/src/main/java/MavenH2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoMavenH2/target/classes/MavenH2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoMavenH2/target/classes/MavenH2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StudentDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StudentDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentDAOTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +106,9 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
         <entry key="com.haulmont.jpb.jpaPalette" value="false" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -182,19 +191,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="database.console.LAST_STATE" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.19592628" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;J:/Mi unidad/Helsinki Java/Java Programing I/Part07_07.RecipeSearch_S0&quot;
+  }
+}</component>
   <component name="RunManager" selected="JUnit.StudentDAOTest.testPersistStudent">
+    <configuration name="StudentDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-hibernate-jpa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentDAOTest.persist" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="test-hibernate-jpa" />
       <option name="PACKAGE_NAME" value="" />
@@ -218,6 +231,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StudentDAOTest.testPersistStudent" />
+        <item itemvalue="JUnit.StudentDAOTest" />
       </list>
     </recent_temporary>
   </component>

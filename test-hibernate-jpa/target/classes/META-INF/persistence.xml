@@ -12,9 +12,9 @@
                          <property name="javax.persistence.jdbc.driver"
                                    value="org.h2.Driver" />
                          <property name="javax.persistence.jdbc.url"
-                                   value="jdbc:h2:tcp://localhost/~/dataBaseH2/campusPayPal" />
+                                   value="jdbc:h2:tcp://localhost/~/dataBaseH2/test-hibernate-jpa" />
                          <property name="javax.persistence.jdbc.user"
-                                   value="albert" />
+                                   value="alex" />
                          <property name="javax.persistence.jdbc.password"
                                    value="1234" />
                          <property name="hibernate.dialect"
