@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="232f2cca-cc9a-4363-af4d-5a39dad391d3" name="Default Changelist" comment="Commit #1 : create project">
+    <list default="true" id="232f2cca-cc9a-4363-af4d-5a39dad391d3" name="Default Changelist" comment="Commit #1 : test-hibernate-jpa updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StudentDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentDAOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentDAOTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoMavenH2" />
   </component>
   <component name="RunManager" selected="JUnit.StudentDAOTest.testPersistStudent">
     <configuration name="StudentDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -248,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652172810414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit #1 : test-hibernate-jpa updated">
+      <created>1656604944783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656604944783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -334,7 +337,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Commit #1 : create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit #1 : create project" />
+    <MESSAGE value="Commit #1 : test-hibernate-jpa updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #1 : test-hibernate-jpa updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.tld">
