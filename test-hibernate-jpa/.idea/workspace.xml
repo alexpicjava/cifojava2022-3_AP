@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232f2cca-cc9a-4363-af4d-5a39dad391d3" name="Default Changelist" comment="Commit #1 : create project">
-      <change afterPath="$PROJECT_DIR$/../demoMavenH2/src/main/java/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoMavenH2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demoMavenH2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoMavenH2/src/main/java/MavenH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoMavenH2/src/main/java/MavenH2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoMavenH2/target/classes/MavenH2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoMavenH2/target/classes/MavenH2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/StudentDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentDAOTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
@@ -191,13 +186,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;J:/Mi unidad/Helsinki Java/Java Programing I/Part07_07.RecipeSearch_S0&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager" selected="JUnit.StudentDAOTest.testPersistStudent">
     <configuration name="StudentDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test-hibernate-jpa" />
